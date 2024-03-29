@@ -1,1 +1,1 @@
-# Log screenshot for the qrcode which when clikced will redirect you to my github repositiry [aravind0815]
+## Log screenshot for the qrcode which when clikced will redirect you to my github repositiry [aravind0815](https://github.com/aravind0815/Homwork7/blob/main/log_screenshot.png)
