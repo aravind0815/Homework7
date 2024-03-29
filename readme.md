@@ -1,2 +1,1 @@
-
-
+# Log screenshot for the qrcode which when clikced will redirect you to my github repositiry [aravind0815]
